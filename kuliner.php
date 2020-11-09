@@ -60,6 +60,9 @@ $datasingle6["kategori"] = "Kuliner Inovasi";
 array_push($response["kuliner"], $datasingle1);
 array_push($response["kuliner"], $datasingle2);
 array_push($response["kuliner"], $datasingle3);
+array_push($response["kuliner"], $datasingle4);
+array_push($response["kuliner"], $datasingle5);
+array_push($response["kuliner"], $datasingle6);
 
 echo json_encode($response);
 
