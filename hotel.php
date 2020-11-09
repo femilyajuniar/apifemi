@@ -85,6 +85,13 @@ $datasingle10["gambar_url"] = "http://localhost/apifemi/foto/10hotel_gading.jpeg
 array_push($response["hotel"], $datasingle1);
 array_push($response["hotel"], $datasingle2);
 array_push($response["hotel"], $datasingle3);
+array_push($response["hotel"], $datasingle4);
+array_push($response["hotel"], $datasingle5);
+array_push($response["hotel"], $datasingle6);
+array_push($response["hotel"], $datasingle7);
+array_push($response["hotel"], $datasingle8);
+array_push($response["hotel"], $datasingle9);
+array_push($response["hotel"], $datasingle10);
 
 echo json_encode($response);
 
