@@ -8,7 +8,7 @@ $datasingle1["nama"] = "Femilya";
 $datasingle1["alamat"] = "Pagar Merbau";
 $datasingle1["nomor_telpon"] = "123456789012";
 $datasingle1["kordinat"] = "-6.478927, 107.481261";
-$datasingle1["gambar_url"] = "http://localhost/apifemi/foto/hotel_harper.jpeg";
+$datasingle1["gambar_url"] = "http://localhost/apifemi/foto/hotel_herper.jpeg";
 
 $datasingle2 = array();
 $datasingle2["id"] = "2";
