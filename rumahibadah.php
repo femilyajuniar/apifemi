@@ -20,57 +20,43 @@ $datasingle3 = array();
 $datasingle3["id"] = "3";
 $datasingle3["nama"] =  "Masjid Raya Syuhada";
 $datasingle3["alamat"] = "Jl. S.M. Arifin, Kel. Galang Kota";
-$datasingle3["kordinat"] = "3.436477, 98.897558";
+$datasingle3["kordinat"] = "3.436445, 98.897429";
 $datasingle3["gambar_url"] = "http://10.0.2.2/apifemi/foto/3hotel_sy.jpg";
 
 $datasingle4 = array();
 $datasingle4["id"] = "4";
-$datasingle4["nama"] =  "Horison Sky Kualanamu";
-$datasingle4["alamat"] = "Bandara International Kualanamu lantai Mezzanine, Medan, Deli Serdang, Sumatera Utara, Indonesia, 20553";
-$datasingle4["kordinat"] = "3.635809, 98.879015";
-$datasingle4["gambar_url"] = "http://10.0.2.2/apifemi/foto/4hotel_sky.jpg";
+$datasingle4["nama"] =  "Masjid Jami' Ar-Rahman";
+$datasingle4["alamat"] = "Jl. Bakaran Batu, Paluh Kemiri, Kec. Lubuk Pakam, Kabupaten Deli Serdang, Sumatera Utara 20517";
+$datasingle4["kordinat"] = "3.571287, 98.869709";
+$datasingle4["gambar_url"] = "http://10.0.2.2/apifemi/foto/4hotel_ar.jpg";
 
 $datasingle5 = array();
 $datasingle5["id"] = "5";
-$datasingle5["nama"] =  "Lively Hotel Kualanamu Airport Medan";
-$datasingle5["alamat"] = "Jalan Arteri Kualanamu NO 9 A39 Tumpatan Nibung, Batang Kuis, Medan, Deli Serdang, Sumatera Utara, Indonesia, 20372";
-$datasingle5["kordinat"] = "3.598267, 98.831614";
-$datasingle5["gambar_url"] = "http://10.0.2.2/apifemi/foto/5hotel_lively.jpg";
+$datasingle5["nama"] =  "Masjid Ar-Ridho";
+$datasingle5["alamat"] = "Jl. Mesjid No.Desa, Dalu 10 A, Tj. Morawa, Kabupaten Deli Serdang, Sumatera Utara 20362";
+$datasingle5["kordinat"] = "3.549132, 98.796551";
+$datasingle5["gambar_url"] = "http://10.0.2.2/apifemi/foto/5masjid_rid.jpeg";
 
 $datasingle6 = array();
 $datasingle6["id"] = "6";
-$datasingle6["nama"] =  "Travel Hub Hotel Kualanamu Airport";
-$datasingle6["alamat"] = "Kompleks Hub Commercial Biz Park , Jalan Arteri Kualanamu No. 9, Tumpatan Nibung, Medan, Deli Serdang, Sumatera Utara, Indonesia, 20372";
-$datasingle6["kordinat"] = "3.597620, 98.831597";
-$datasingle6["gambar_url"] = "http://10.0.2.2/apifemi/foto/6hotel_travel.jpg";
+$datasingle6["nama"] =  "Masjid Taqwa Muhammadiyah";
+$datasingle6["alamat"] = "Jl. P. Diponegoro No.1, Tj. Garbus Satu, Kec. Lubuk Pakam, Kabupaten Deli Serdang, Sumatera Utara 20151";
+$datasingle6["kordinat"] = "3.561001, 98.873507";
+$datasingle6["gambar_url"] = "http://10.0.2.2/apifemi/foto/6masjid_md.jpg";
 
 $datasingle7 = array();
 $datasingle7["id"] = "7";
-$datasingle7["nama"] =  "Thong's Inn Hotel Kualanamu";
-$datasingle7["alamat"] = "Jalan Pasar V Kebun Kelapa, Medan, Deli Serdang, Sumatera Utara, Indonesia, 20552";
-$datasingle7["kordinat"] = "3.593010, 98.861152";
-$datasingle7["gambar_url"] = "http://10.0.2.2/apifemi/foto/7hotel_inn.jpg";
+$datasingle7["nama"] =  "Masjid RSUD Lubuk Pakam";
+$datasingle7["alamat"] = "Jl. Mh. Thamrin, Petapahan, Kec. Lubuk Pakam, Kabupaten Deli Serdang, Sumatera Utara 20517";
+$datasingle7["kordinat"] = "3.556882, 98.867531";
+$datasingle7["gambar_url"] = "http://10.0.2.2/apifemi/foto/7masjid_r.jpg";
 
 $datasingle8 = array();
 $datasingle8["id"] = "8";
-$datasingle8["nama"] =  "Hotel Aero";
-$datasingle8["alamat"] = "Jalan. Paya Pasir No. 8 B-N, Tanjung Morawa Deli Serdang. Sumatra Utara, Medan, Deli Serdang, Sumatera Utara, Indonesia, 20362";
-$datasingle8["kordinat"] = "3.521169, 98.784966";
-$datasingle8["gambar_url"] = "http://10.0.2.2/apifemi/foto/8hotel_aero.jpg";
-
-$datasingle9 = array();
-$datasingle9["id"] = "9";
-$datasingle9["nama"] =  "My Studio Hotel Kualanamu Airport Medan";
-$datasingle9["alamat"] = "Jl. Sultan Serdang, Tumpatan Nibung, Kec. Batang Kuis, Kabupaten Deli Serdang, Sumatera Utara 20372";
-$datasingle9["kordinat"] = "3.598012, 98.831834";
-$datasingle9["gambar_url"] = "http://10.0.2.2/apifemi/foto/9hotel_studio.jpg";
-
-$datasingle10 = array();
-$datasingle10["id"] = "10";
-$datasingle10["nama"] =  "Pancur Gading Hotel & Resort";
-$datasingle10["alamat"] = "Jalan Kuala Simeme No. 1 Pamah, Delitua, Medan, Deli Serdang, Sumatera Utara, Indonesia, 20356";
-$datasingle10["kordinat"] = "3.473196, 98.680152";
-$datasingle10["gambar_url"] = "http://10.0.2.2/apifemi/foto/10hotel_gading.jpg";
+$datasingle8["nama"] =  "Masjid Al Huda";
+$datasingle8["alamat"] = "Tj. Garbus II, Kec. Pagar Merbau, Kabupaten Deli Serdang, Sumatera Utara 20551";
+$datasingle8["kordinat"] = "3.513025, 98.901396";
+$datasingle8["gambar_url"] = "http://10.0.2.2/apifemi/foto/8masjid_hd.jpg";
 
 array_push($response["hotel"], $datasingle1);
 array_push($response["hotel"], $datasingle2);
@@ -80,8 +66,6 @@ array_push($response["hotel"], $datasingle5);
 array_push($response["hotel"], $datasingle6);
 array_push($response["hotel"], $datasingle7);
 array_push($response["hotel"], $datasingle8);
-array_push($response["hotel"], $datasingle9);
-array_push($response["hotel"], $datasingle10);
 
 echo json_encode($response);
 
