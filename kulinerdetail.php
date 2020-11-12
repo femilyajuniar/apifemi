@@ -66,7 +66,7 @@ if(isset($_GET['id'])){
         $response["kategori"] = "Kuliner Inovasi";
         $response["nomor_telp"] = "0264700142";
         $response["deskripsi"] = "Menyajikan masakan rumahan yang berkualitas, rasakan rumah yang selalu membuat kita rindu";
-    }else if($id == "6"){
+    } else if($id == "6"){
         $response["id"] = 6;
         $response["nama"] = "Kawan Burger";
         $response["alamat"] = "Jalan Raya Lintas Tengah Galang Tanjung Garbus, Tj. Garbus II, Kec. Pagar Merbau, Kabupaten Deli Serdang, Sumatera Utara 20551";
@@ -76,7 +76,27 @@ if(isset($_GET['id'])){
         $response["kategori"] = "Kuliner Inovasi";
         $response["nomor_telp"] = "0264700142";
         $response["deskripsi"] = "Kawan Burger merupakan salah satu kuliner yang terletak di desa Pagar Merbau 2, menyediakan berbagai menu burger yang membuatnya selalu nagih";
-    }
+    } else if($id == "7"){
+        $response["id"] = 7;
+        $response["nama"] = "Es Teler 77 Suzuya Plaza Tanjung";
+        $response["alamat"] = "Suzuya Plaza Tanjung Morawa Lt. Dasar, Jl. Lubuk Pakam Tanjung Morawa No. 90, Tanjung Garbus Satu, Tanjung Morawa, Tj. Garbus Satu, Kec. Lubuk Pakam, Kabupaten Deli Serdang, Sumatera Utara 20362";
+        $response["jam_buka_tutup"] = "Setiap Hari pukul 10.00 - 21.00 WIB";
+        $response["kordinat"] = "3.512627, 98.902140";
+        $response["gambar_url"] = "http://localhost/apifemi/foto/7kuliner_es.jpeg";
+        $response["kategori"] = "Kuliner Inovasi";
+        $response["nomor_telp"] = "0264700142";
+        $response["deskripsi"] = "Gerai Es Teler 77 Suzuya Plaza Tanjung Morawa ini terletak di Lantai dasar Suzuya Plaza yang berada di Jl. Lubuk Pakam Tanjung Morawa No. 90, Tanjung Garbus Satu, Tanjung Morawa, Tj. Garbus Satu, Kec. Lubuk Pakam, Kabupaten Deli Serdang, Sumatera Utara 20362";
+    } else if($id == "8"){
+        $response["id"] = 8;
+        $response["nama"] = "Iga Iga Bakso";
+        $response["alamat"] = "Jl. Imam Bonjol, Tj. Garbus Satu, Kec. Lubuk Pakam, Kabupaten Deli Serdang, Sumatera Utara 20518";
+        $response["jam_buka_tutup"] = "Setiap Hari pukul 11.00 - 23.00 WIB";
+        $response["kordinat"] = "3.555704, 98.879642";
+        $response["gambar_url"] = "http://localhost/apifemi/foto/8kuliner_iga.jpg";
+        $response["kategori"] = "Kuliner Inovasi";
+        $response["nomor_telp"] = "0264700142";
+        $response["deskripsi"] = "Iga Iga Bakso Lubuk Pakam merupakan restoran cepat saji yang menyediakan berbagai menu bakso dan iga";
+}
 
    echo json_encode($response);
 
